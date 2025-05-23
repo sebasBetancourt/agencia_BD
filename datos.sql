@@ -6,3 +6,4 @@ INSERT INTO empleados(nombre, apellido, correo)VALUES
 ("TristePe", "Trigopan", "danielzurfer123@gmail.com"),
 ("Nicolas", "Angarita", "nicotur@gmail.com"),
 ("Bastian", "Nova", "bastian2211@ŋmail.com");
+
